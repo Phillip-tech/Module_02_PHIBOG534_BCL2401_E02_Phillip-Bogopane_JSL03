@@ -2,8 +2,9 @@
 
 # Presentation Talking Points
 
-Example #: [ 01 ]
+Loom Recording Link: [https://www.loom.com/share/f78ad8ae7c9e4634825d9ad9289f4e02?sid=53ea1a22-fa01-4eab-a77d-577e063448b4] 
 
+# Example #: [ 01 ]
 
 ## Imperative Approach [2 Minutes]
 
