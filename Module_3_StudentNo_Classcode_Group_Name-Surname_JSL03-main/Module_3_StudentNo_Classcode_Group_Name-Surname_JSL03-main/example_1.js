@@ -14,8 +14,13 @@ function cookSteak(steakWeight, desiredDoneness) {
       // Grill the steak and measure internal temperature
       // Adjust grill temperature and cooking time based on steakWeight and desiredDoneness
       // Update steakTemperature
+
+      steakTemperature += 5; // incrementing of temperature 
       
       // If the steak is done, break out of the loop
+      if (steakTemperature >= desiredDoneness) {
+        break;
+      }
     }
     
     // Step 4: Serve the steak
@@ -29,4 +34,3 @@ function cookSteak(steakWeight, desiredDoneness) {
   // Usage example:
   const result = cookSteak(16, 63); // Cook a 16 oz steak to medium-rare (63°C)
   console.log(result);
-  
